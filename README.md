@@ -46,6 +46,8 @@ gunakan `git init` ketika kalian sudah berada di repository tersebut (jalankan g
 ### • git clone [url]
 Perintah ini digunakan untuk mendapatkan seluruh repositori atau mengunduh kode sumber yang ada dari URL yang disediakan. Pada dasarnya membuat salinan identik dari versi terbaru dari repositori di sistem lokal.
 #### Example :
-```git clone https://github.com/SCFJR/Web-Sederhana```
+```
+git clone https://github.com/SCFJR/Web-Sederhana
+```
 
 
