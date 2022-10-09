@@ -55,4 +55,4 @@ Perintah ini digunakan untuk mendapatkan seluruh repositori atau mengunduh kode 
 git clone https://github.com/SCFJR/Web-Sederhana
 ```
 
-<a href="https://ibb.co/XkcxfXC"><img src="https://i.ibb.co/n8xMqrL/5f8f925c-878e-4a9c-8782-d1fb0be284bc.jpg" alt="5f8f925c-878e-4a9c-8782-d1fb0be284bc" border="0"></a>
+<a href="https://ibb.co/Rp4p72s"><img src="https://i.ibb.co/Gv3vF78/5153ef62-cde2-4238-ab3d-850ed476212d.jpg" alt="5153ef62-cde2-4238-ab3d-850ed476212d" border="0"></a>
