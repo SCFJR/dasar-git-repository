@@ -36,8 +36,16 @@ Perintah ini menetapkan efek pewarnaan baris perintah otomatis agar mudah ditinj
 
 # - CREATE AND INITIALIZE
 ### • git init
-gunakan git init ketika kalian sudah berada di repository tersebut
+gunakan `git init` ketika kalian sudah berada di repository tersebut (jalankan git bash ketika kalian sedang ada di folder yang ingin di jalankan agar memudahkan untuk initialize)
 #### Example : 
 `git init`
 
-<a href="https://ibb.co/Hqd7Kxs"><img src="https://i.ibb.co/Hqd7Kxs/9af05177-7c9e-45c9-8fb4-ee723530c289.jpg" alt="9af05177-7c9e-45c9-8fb4-ee723530c289" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PYHBbNm/de46675c-899e-423f-bdb8-20140c9dcf64.jpg" alt="de46675c-899e-423f-bdb8-20140c9dcf64" border="0"></a>
+
+
+### • git clone [url]
+Perintah ini digunakan untuk mendapatkan seluruh repositori atau mengunduh kode sumber yang ada dari URL yang disediakan. Pada dasarnya membuat salinan identik dari versi terbaru dari repositori di sistem lokal.
+#### Example :
+```git clone https://github.com/SCFJR/Web-Sederhana```
+
+
