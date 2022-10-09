@@ -3,6 +3,8 @@
 
 
 
+
+
 # - GIT SETUP
 ### • git config --global user.name “[name]”
 Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.
@@ -26,3 +28,16 @@ Perintah ini menetapkan efek pewarnaan baris perintah otomatis agar mudah ditinj
 `git config --global color.ui auto`
 
 <a href="https://ibb.co/Bz6fprz"><img src="https://i.ibb.co/1vX0gdv/0246eed6-7e2f-4f51-a4c9-16e5c652d5ca.jpg" alt="0246eed6-7e2f-4f51-a4c9-16e5c652d5ca" border="0"></a>
+
+
+
+
+
+
+# - CREATE AND INITIALIZE
+### • git init
+gunakan git init ketika kalian sudah berada di repository tersebut
+#### Example : 
+`git init`
+
+<a href="https://ibb.co/Hqd7Kxs"><img src="https://i.ibb.co/Hqd7Kxs/9af05177-7c9e-45c9-8fb4-ee723530c289.jpg" alt="9af05177-7c9e-45c9-8fb4-ee723530c289" border="0"></a>
