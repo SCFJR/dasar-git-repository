@@ -1,11 +1,10 @@
 # Bekerja Dengan Git Bash
 ### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
 
+<hr>
 
+# - GIT SETUP<br><br>
 
-
-
-# - GIT SETUP
 ### • git config --global user.name “[name]”
 Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.
 #### Example : 
@@ -36,10 +35,9 @@ git config --global color.ui auto
 <a href="https://ibb.co/Bz6fprz"><img src="https://i.ibb.co/1vX0gdv/0246eed6-7e2f-4f51-a4c9-16e5c652d5ca.jpg" alt="0246eed6-7e2f-4f51-a4c9-16e5c652d5ca" border="0"></a>
 
 <hr>
-<br><br><br>
 
+# - CREATE AND INITIALIZE<br><br>
 
-# - CREATE AND INITIALIZE
 ### • git init
 gunakan `git init` ketika kalian sudah berada di repository tersebut (jalankan git bash ketika kalian sedang ada di folder yang ingin di jalankan agar memudahkan untuk initialize)
 #### Example : 
