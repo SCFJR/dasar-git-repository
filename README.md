@@ -6,7 +6,7 @@
 # - GIT SETUP<br><br>
 
 ### • git config --global user.name “[name]”
-Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.
+Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.Usahakan username kalian sama dengan username github kalian agar bisa menjalankan perintah `git remote` untuk meremote repository di github
 #### Example : 
 ```
 git config --global user.name "yourname"
@@ -52,7 +52,7 @@ git init
 Perintah ini digunakan untuk mendapatkan seluruh repositori atau mengunduh kode sumber yang ada dari URL yang disediakan. Pada dasarnya membuat salinan identik dari versi terbaru dari repositori di sistem lokal.
 #### Example :
 ```
-git clone https://github.com/SCFJR/Web-Sederhana
+git clone https://github.com/SCFJR/Web-Sederhana.git
 ```
 
 <a href="https://ibb.co/Rp4p72s"><img src="https://i.ibb.co/Gv3vF78/5153ef62-cde2-4238-ab3d-850ed476212d.jpg" alt="5153ef62-cde2-4238-ab3d-850ed476212d" border="0"></a>
