@@ -2,8 +2,9 @@
 ### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
 
 
-# GIT SETUP
+# -GIT SETUP
 ### git config --global user.name “[name]”
 Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.
 #### Example : 
-```git config --global user.name SCFJR```
+```git config --global user.name "yourname"```
+
