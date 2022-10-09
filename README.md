@@ -3,6 +3,6 @@
 
 ## GIT SETUP
 
-<sub>git config --global user.name “[name]”,</sub>
-Example : 
+git config --global user.name “[name]”
+#### Example : 
 ```git config --global user.name SCFJR```
