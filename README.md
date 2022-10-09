@@ -39,7 +39,7 @@ git config --global color.ui auto
 # - CREATE AND INITIALIZE<br><br>
 
 ### • git init
-gunakan `git init` ketika kalian sudah berada di repository tersebut (jalankan git bash ketika kalian sedang ada di folder yang ingin di jalankan agar memudahkan untuk initialize)
+gunakan `git init` ketika kalian sudah berada di repository tersebut (jalankan git bash ketika kalian sedang ada di folder yang ingin di jalankan agar memudahkan untuk initialize),Jika kalian sudah menjalankan `git init` maka akan ada status `(master)` di sebelan repository kalian
 #### Example : 
 ```
 git init
