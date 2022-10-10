@@ -119,7 +119,7 @@ git rm file2.html
 
 
 ### • git commit -m “[commit message]”
-Perintah ini merecords atau mensnapshots perubahan secara permanen dalam riwayat versi repositori kalian.
+Perintah ini merecords atau mensnapshots perubahan secara permanen dalam riwayat versi repositori kalian.<br>
 <sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add` untuk memindahkan semua file untracked / modified ke dalam staging area,lalu lakukan `git commit`</sub>
 #### Example :
 ```
