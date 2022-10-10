@@ -59,11 +59,24 @@ git clone https://github.com/SCFJR/Web-Sederhana.git
 
 <hr>
 
-# - STAGING & COMMIT<br><br>
+# - STAGING & COMMIT<br>
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) Red color (in git status) = Untracked / Modified (tidak bisa di commit)<br>
+![00b037](https://via.placeholder.com/15/00b037/00b037.png) green color (In git status)= In Staging Area (bisa di commit)<br><br>
+
+### • git status
+digunakan ketika kalian ingin melihat status file pada reository kalian yang ingin di commit 
+#### Example :
+```
+git status
+```
+
+<img src="https://i.ibb.co/q0htKnv/eb648dbe-17aa-4875-b8dd-a864bcbe551a.jpg" alt="eb648dbe-17aa-4875-b8dd-a864bcbe551a" border="0">
+
 
 ### • git add [nama file]
 Perintah ini memindahkan file dari working tree ke Staging area / branch saat ini.<br>
-<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add` agar pindah ke dalam staging area</sub>
+<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add` agar pindah ke dalam staging area</sub><br>
+
 #### Example :
 ```
 git add testedfile.html
@@ -96,10 +109,23 @@ git add .
 
 ### • git rm [namafile]
 Perintah ini menghapus file yang ada dari direktori kerja Anda.<br>
-<sub>gunakan `git status` untuk melihat status file yang sudah di remove,lalu lakukan `git commit -m "massage kalian"` agar file tersebut sudah benar benar terhapus pada repository kalian</sub>
+<sub>gunakan `git status` untuk melihat status file yang sudah di remove,lalu lakukan `git commit -m "commit massage"` agar file terekam perubahanya secara permanen pada repository kalian</sub>
 #### Example :
 ```
 git rm file2.html
 ```
 
 <img src="https://i.ibb.co/NK3drPk/c812f018-8b5e-48d9-80c2-ec304802e36f.jpg" alt="c812f018-8b5e-48d9-80c2-ec304802e36f" border="0">
+
+
+### • git commit -m “[commit message]”
+Perintah ini merecords atau mensnapshots perubahan secara permanen dalam riwayat versi repositori kalian.
+<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add` untuk memindahkan semua file untracked / modified ke dalam staging area,lalu lakukan `git commit`</sub>
+#### Example :
+```
+git commit -m "memodifikasi index.html"
+```
+
+<img src="https://i.ibb.co/q0htKnv/eb648dbe-17aa-4875-b8dd-a864bcbe551a.jpg" alt="eb648dbe-17aa-4875-b8dd-a864bcbe551a" border="0">
+
+
