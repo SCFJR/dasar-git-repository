@@ -56,3 +56,50 @@ git clone https://github.com/SCFJR/Web-Sederhana.git
 ```
 
 <img src="https://i.ibb.co/Gv3vF78/5153ef62-cde2-4238-ab3d-850ed476212d.jpg" alt="5153ef62-cde2-4238-ab3d-850ed476212d" border="0">
+
+<hr>
+
+# - STAGING & COMMIT<br><br>
+
+### • git add [nama file]
+Perintah ini memindahkan file dari working tree ke Staging area / branch saat ini.<br>
+<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add` agar pindah ke dalam staging area</sub>
+#### Example :
+```
+git add testedfile.html
+```
+
+<img src="https://i.ibb.co/2Nz8WKY/9dfc0f8a-8b9e-4cbe-8233-1db39e06095e.jpg" alt="9dfc0f8a-8b9e-4cbe-8233-1db39e06095e" border="0">
+
+
+### • git add *
+Perintah ini menambahkan satu atau lebih file dari working tree ke Staging area / branch saat ini. penggunaan `git add *` tidak memindahkan semua file kedalam staging area,melainkan hanya beberapa file yang dipindahkan ke staging area (antara 2 file tau lebih)<br>
+<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add *` untuk memindahkan beberapa file ke dalam staging area</sub>
+#### Example :
+```
+git add *
+```
+
+<img src="https://i.ibb.co/7jdjz6f/7fe11b29-03e1-4f9c-aeb2-da5fdb440aa2.jpg" alt="7fe11b29-03e1-4f9c-aeb2-da5fdb440aa2" border="0">
+
+
+### • git add .
+Tahapan memindahkan semua file di seluruh repositori ke Staging area / branch saat ini.<br>
+<sub>gunakan `git status` untuk melihat file yang masih berstatus Utracked atau modified kemudian add file yang masih berstatus Untracked / Modified dengan `git add .` untuk memindahkan semua file untracked / modified ke dalam staging area</sub>
+#### Example :
+```
+git add .
+```
+
+<img src="https://i.ibb.co/VCzzBss/179a1163-44b6-43ab-adb2-736e76013599.jpg" alt="179a1163-44b6-43ab-adb2-736e76013599" border="0">
+
+
+### • git rm [namafile]
+Perintah ini menghapus file yang ada dari direktori kerja Anda.<br>
+<sub>gunakan `git status` untuk melihat status file yang sudah di remove,lalu lakukan `git commit -m "massage kalian"` agar file tersebut sudah benar benar terhapus pada repository kalian</sub>
+#### Example :
+```
+git rm file2.html
+```
+
+<img src="https://i.ibb.co/NK3drPk/c812f018-8b5e-48d9-80c2-ec304802e36f.jpg" alt="c812f018-8b5e-48d9-80c2-ec304802e36f" border="0">
