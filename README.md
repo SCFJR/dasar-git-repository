@@ -126,6 +126,6 @@ Perintah ini merecords atau mensnapshots perubahan secara permanen dalam riwayat
 git commit -m "memodifikasi index.html"
 ```
 
-<img src="https://i.ibb.co/q0htKnv/eb648dbe-17aa-4875-b8dd-a864bcbe551a.jpg" alt="eb648dbe-17aa-4875-b8dd-a864bcbe551a" border="0">
+<img src="https://i.ibb.co/WDgsM10/b6477930-735e-4461-b0db-d2b7c6264f02.jpg" alt="b6477930-735e-4461-b0db-d2b7c6264f02" border="0">
 
 
