@@ -64,7 +64,7 @@ git clone https://github.com/SCFJR/Web-Sederhana.git
 ![00b037](https://via.placeholder.com/15/00b037/00b037.png) green color (In git status)= In Staging Area (bisa di commit)<br><br>
 
 ### • git status
-digunakan ketika kalian ingin melihat status file pada reository kalian yang ingin di commit 
+digunakan ketika kalian ingin melihat status file pada repository kalian yang ingin di commit 
 #### Example :
 ```
 git status
