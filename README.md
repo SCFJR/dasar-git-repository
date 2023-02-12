@@ -3,8 +3,11 @@
    <h1 align="center">Bekerja Dengan Git Bash</h1>
    <a <img alt="" src="https://img.shields.io/badge/version-2.39.1-brightgreen"></p></a>
    <a aria-label="Join the community on GitHub" href="https://git-scm.com/">
-    <img alt="" src="https://img.shields.io/badge/version-2.39.1-brightgreen?style=for-the badge&logo=git&labelColor=000000&logoWidth=20">
+    <img height="25px" alt="" src="https://img.shields.io/badge/version-2.39.1-brightgreen?style=for-the badge&logo=git&labelColor=000000&logoWidth=20=">
   </a>
+  <a aria-label="Join the community on GitHub" href="https://git-scm.com/community">
+    <img height="25px" alt="" src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&logo=git&labelColor=000000&logoWidth=20">
+  </a> 
 </div>
  
 
