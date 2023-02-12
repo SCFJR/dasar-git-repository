@@ -1,9 +1,13 @@
-# Bekerja Dengan Git Bash
-### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
+<p align="center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"></p>
+<h1 align="center">Bekerja Dengan Git Bash</h1>
+ 
+<br/><br/>
+ 
+ ### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
+ 
+<br>
 
-<hr>
-
-# - GIT SETUP<br><br>
+# - GIT SETUP<br>
 
 ### • git config --global user.name “[name]”
 Perintah ini menetapkan nama pengguna, yang membantu dalam meninjau oleh siapa perubahan itu dibuat.Usahakan username kalian sama dengan username github kalian agar bisa menjalankan perintah `git remote` untuk meremote repository di github
