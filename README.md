@@ -1,11 +1,19 @@
-<p align="center"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"></p>
-<h1 align="center">Bekerja Dengan Git Bash</h1>
+<div align="center"> 
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg">
+   <h1 align="center">Bekerja Dengan Git Bash</h1>
+   <a <img alt="" src="https://img.shields.io/badge/version-2.39.1-brightgreen"></p></a>
+   <a aria-label="Join the community on GitHub" href="https://git-scm.com/">
+    <img alt="" src="https://img.shields.io/badge/version-2.39.1-brightgreen?style=for-the badge&logo=git&labelColor=000000&logoWidth=20">
+  </a>
+</div>
  
+
+
 <br/><br/>
  
  ### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
  
-<br>
+<br/>
 
 # - GIT SETUP<br>
 
