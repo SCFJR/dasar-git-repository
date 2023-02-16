@@ -14,7 +14,7 @@
 
 <br/><br/>
  
- ### Berikut Adalah Command Git Yang Bisa Dipakai Di Git Bash
+
  
 <br/>
 
